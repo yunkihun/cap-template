@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+팀페이지 주소 -> https://github.com/kookmin-sw/capstone-2022-32
+# MOM'S VOCA.
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 1. 프로잭트 소개
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+요즘 시대는 영어를 공부하지 않고서는 취업을 할 수가 없는 시대입니다. 영어는 만국공통어가 되었고, 요즘 20대는 취업을 하기 위해서 기본적으로 토익점수를 고득점을 받아야하는 시대입니다. 처음 가보는 다른나라를 여행하더라도 대부분이 그 나라의 모국어보다는 영어로 대화를 시도하는 풍경을 많이 보셨을 것 입니다. 이렇게 영어는 우리에게 엄청 중요한 스펙으로 작용하는 사회에 살고 있습니다.
+사실 저희 부모님세대는 영어를 잘하고 못하고가 크게 중요하지 않을 수 있습니다. 하지만 저희 주변 어른들과 저희 부모님들만 봐도 영어를 늦게 시작해서 공부하시는 분들이 많이 계십니다. 그 분들에게 영어공부를 시작한 이유를 물어봤는데 제일 많이 나오는 대답은 호기심과 재미였습니다. 저희 어머님도 마찬가지로 제가 영어공부를 열심히 하는 모습을 보고 어머님도 영어공부를 해보고 싶다고 생각을 하셨다고 했습니다. 그래서 저희 어머님은 동네에 있는 영어학원도 다니시고, 그곳에서 배운 영어를 평소 TV나 신문에 나오는 영어단어들을 알아보시며 영어공부가 생각보다 재밌으시다고 말씀을 하셨습니다. 하지만 어느 날 어머님이 영어공부에 대한 말씀을 한동안 안하셔서 어머님께 요즘은 영어공부를 안하시냐고 여쭤봤는데, 어머님께서는 처음 공부해보는 영어단어가 잘 외워지지도 않고, 휘발성이 강해서 기억하려해도 자꾸 까먹어서 흥미가 떨어진다고 말씀하였셨습니다. 
+저는 어머님의 말씀을 듣고 어머님을 포함해서 많은 부모님세대 어른들이 영어공부를 보다 편하게 할 수 있으며, 그림과 함께 단어를 보여줌으로써 연관기억력을 높이는 효과가 있는 프로그램을 개발해보자고 생각했습니다. 그렇게 해서 계획된 프로그램이 연상학습법을 활용한 MOM’S VOCA입니다. 
 
-### Markdown
+### 2. 팀 소개
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/102350939/162039779-bd3f180a-febd-48e7-8e68-ff7019aa15fe.png)    
+Name: 윤기훈    
+Student ID: ****3082    
+Roll: 조장   
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/102350939/162039241-1d22361f-c9b4-40c2-a9f0-9f49d396ae26.png)    
+Name: 이소율   
+Student ID: ****3251   
+Roll: 조원
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
